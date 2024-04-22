@@ -30,7 +30,6 @@ img{
 }
 
 ul{
-    border: 2px dashed blue;
     flex-grow: 1;
     max-height: 85%;
     width: 100%;
@@ -82,6 +81,7 @@ ul>li {
 #textbox input{
     flex:1;
     border: none;
+    outline: none;
     border-radius: 30px;
     
     margin-left: 5%;
